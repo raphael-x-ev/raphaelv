@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Encode+Sans+Semi+Expanded');
+.src-app {
+  // height: 98.4vh;
+  min-height: 1820px;
+  overflow: hidden;
+  background-color: #f1f1f1;
+
+  &-main-background {
+    background-image: url("../assets/DSC07704.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+  }
+}

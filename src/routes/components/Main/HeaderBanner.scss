@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
+.header-banner {
+  &-h1 {
+    font-family: 'Permanent Marker', cursive !important;
+    font-size: 4.4em !important;
+    font-weight: normal !important;
+    margin-bottom: -5px !important;
+    margin-top: 3em !important;
+  }
+
+  &-a {
+    color: white;
+    text-decoration: none; /* no underline */
+  }
+
+  &-a:hover {
+    color: black;
+  }
+
+  &-h2 {
+    font-family: 'Encode Sans Semi Expanded', sans-serif !important;
+    font-size: 1.8em !important;
+    font-weight: normal !important;
+    margin-top: -10px !important;
+    margin-bottom: 30px !important;
+
+  }
+}

@@ -1,0 +1,29 @@
+.portfolio-about {
+  margin-top: 2em;
+  &-image {
+    width: 20px !important;
+    height: 20px !important;
+  }
+
+  &-header {
+    font-size: 20px;
+  }
+
+  &-title {
+    font-family: 'Encode Sans Semi Expanded', sans-serif;
+    font-size: 25px;
+    margin-bottom: 7px;
+  }
+
+  &-content {
+    margin-top: 0.5em !important;
+    font-family: 'Encode Sans Semi Expanded', sans-serif;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  &-image {
+    height: 5em !important;
+    width: auto !important;
+  }
+}
