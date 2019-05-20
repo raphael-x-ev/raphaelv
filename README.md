@@ -1,7 +1,7 @@
-# REACT PORTFOLIO v1
-Author: Raphael E. Valdez
+## REACT PORTFOLIO v1
+#Author: Raphael E. Valdez
 
-##devDependencies:
+## devDependencies:
 ###    "@babel/core": "^7.4.4",
 ###    "@babel/plugin-proposal-class-properties": "^7.4.4",
 ###    "@babel/plugin-proposal-decorators": "^7.4.4",
