@@ -41,7 +41,7 @@
     "gh-pages": "^2.0.1",
     "html-loader": "^0.5.5",
     "html-webpack-plugin": "^3.2.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^16.8.6",
     "react-animation": "^1.0.9",
     "react-customizable-progressbar": "^0.2.0",
